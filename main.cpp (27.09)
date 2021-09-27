@@ -13,7 +13,7 @@ int main()
 {
 	int *tab, n;
 	
-	cout<<"Ile liczb bêdziesz chcia³ posortowaæ? ";
+	cout<<"Ile liczb bÃªdziesz chciaÂ³ posortowaÃ¦? ";
 	cin>>n;
 	
 	tab = new int [n];
